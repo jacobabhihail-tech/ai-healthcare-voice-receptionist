@@ -1,0 +1,58 @@
+# Common Cold
+
+Symptoms:
+- Sneezing
+- Runny nose
+- Mild fever
+- Cough
+
+Advice:
+Drink fluids, get rest, and consult a GP if symptoms worsen.
+
+----------------------------------------------------
+
+# Fever
+
+Symptoms:
+- Temperature above 38°C
+- Chills
+- Sweating
+
+Advice:
+Stay hydrated and seek medical advice if fever lasts more than 3 days.
+
+----------------------------------------------------
+
+# Headache
+
+Symptoms:
+- Pain in head
+- Pressure
+- Sensitivity to light
+
+Advice:
+Rest, stay hydrated, and consult a healthcare professional if severe.
+
+----------------------------------------------------
+
+# Diabetes
+
+Symptoms:
+- Increased thirst
+- Frequent urination
+- Fatigue
+
+Advice:
+Monitor blood sugar regularly and consult your doctor.
+
+----------------------------------------------------
+
+# Chest Pain
+
+Symptoms:
+- Pressure in chest
+- Pain while breathing
+- Tightness
+
+Advice:
+Seek immediate emergency medical attention.
